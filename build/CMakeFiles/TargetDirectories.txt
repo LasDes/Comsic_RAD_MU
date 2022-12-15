@@ -1,0 +1,3 @@
+/Users/macosx/Desktop/Respaldos Código G4 y Rad Muon Github/TT--- ARCH VER Muon GITHUB/Cosmic-Distribution-master/build/CMakeFiles/main.dir
+/Users/macosx/Desktop/Respaldos Código G4 y Rad Muon Github/TT--- ARCH VER Muon GITHUB/Cosmic-Distribution-master/build/CMakeFiles/edit_cache.dir
+/Users/macosx/Desktop/Respaldos Código G4 y Rad Muon Github/TT--- ARCH VER Muon GITHUB/Cosmic-Distribution-master/build/CMakeFiles/rebuild_cache.dir

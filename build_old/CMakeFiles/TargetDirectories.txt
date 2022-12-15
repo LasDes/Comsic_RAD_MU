@@ -1,0 +1,3 @@
+/Users/macosx/Downloads/Cosmic-Distribution-master/build/CMakeFiles/rebuild_cache.dir
+/Users/macosx/Downloads/Cosmic-Distribution-master/build/CMakeFiles/edit_cache.dir
+/Users/macosx/Downloads/Cosmic-Distribution-master/build/CMakeFiles/Main.dir
